@@ -1,3 +1,6 @@
 [submodule "repos/rexec"]
 	path = repos/rexec
 	url = git@github.com:UnivSchool/rexec.git
+[submodule "repos/reflect5"]
+	path = repos/reflect5
+	url = git@github.com:UnivSchool/reflect5.git
