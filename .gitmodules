@@ -1,0 +1,3 @@
+[submodule "repos/rexec"]
+	path = repos/rexec
+	url = git@github.com:UnivSchool/rexec.git
